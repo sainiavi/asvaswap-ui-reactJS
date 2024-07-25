@@ -60,7 +60,7 @@ function ConnectWalletPage() {
             className={classes.title}
             color="common.white"
           >
-            Please connect to  polygon testnet  your browser to use the
+            Please connect to  BSC testnet  your browser to use the
             application.
           </Typography>
         </Paper>
